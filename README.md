@@ -1,2 +1,2 @@
 # dice-game
-Simple, None responsive dice game with html, css and javascript.
+Simple, none responsive dice game with html, css and javascript.
